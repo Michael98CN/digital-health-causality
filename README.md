@@ -1,5 +1,7 @@
 # Setup Guide
 
+## Development system: Windows 11
+
 ## 1. Install Stata
 
 First, install **Stata 17** or **Stata 18** from the official website:  

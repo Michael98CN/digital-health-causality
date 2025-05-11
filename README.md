@@ -1,13 +1,11 @@
 
 # Harnessing Real-Time Digital Health Data and Causal Inference for Proactive Disease Monitoring and Intervention
 
-![Workflow](figure4.png)  
-*<sub>Figure: Overview of our e-epidemiology framework.</sub>*
+
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Windows%2011-blue?logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Stata-17%2F18-lightgrey?logo=stata" />
   <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" />
   <img src="https://img.shields.io/badge/License-MIT-green?logo=github" />
@@ -19,6 +17,9 @@
 ## 📝 Overview
 
 Chronic diseases account for over 80% of the global disease burden, yet traditional epidemiological methods are resource-intensive and slow. This project proposes a novel **e-epidemiology framework** that integrates real-time digital health data with causal inference techniques for proactive disease monitoring and intervention.
+
+![Workflow](figure4.png)  
+*<sub>Figure: Schematic of the integrated e-epidemiology methodology.</sub>*
 
 ### 🌟 Key Highlights
 

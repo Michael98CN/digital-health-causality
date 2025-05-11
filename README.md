@@ -3,7 +3,6 @@
 
 
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Stata-17%2F18-lightgrey?logo=stata" />
@@ -12,7 +11,7 @@
   <img src="https://img.shields.io/badge/Version-1.0.0-orange" />
 </p>
 
----
+
 
 ## 📝 Overview
 

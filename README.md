@@ -1,7 +1,7 @@
 
 # Harnessing Real-Time Digital Health Data and Causal Inference for Proactive Disease Monitoring and Intervention
 
-![Workflow](docs/figures/workflow.png)  
+![Workflow](figure4.png)  
 *<sub>Figure: Overview of our e-epidemiology framework.</sub>*
 
 ---

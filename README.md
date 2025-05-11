@@ -88,9 +88,3 @@ If you use this framework or code, please cite our work:
 
 ```
 
-
-> *Empowering proactive healthcare with real-time data and causal insights.*
-
----
-
-你可以将上述内容保存为 `README.md`，并根据需要补充主图和引用信息。

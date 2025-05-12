@@ -29,7 +29,32 @@ Chronic diseases account for over 80% of the global disease burden, yet traditio
 - **Case Study:** In epilepsy, spikes in related searches precede interest in anxiety, migraine, brain, and heart health.
 - **Scalable Framework:** Can be generalized to other chronic diseases and digital data sources.
 
+当然可以！下面是对你的目录结构的精简整理和美化，适合直接放到README.md中，包含适当的注释和层级缩进：
+
 ---
+
+## 📁 Project Directory Structure
+
+```plaintext
+.
+├── envs1.yml
+├── envs2.txt
+├── code/
+│   └── analysis/
+│       ├── run.ipynb # main code
+│       ├── pics/
+│       └── result_appendix_12-13/
+└── data/
+    ├── baidu/
+    │   ├── comorbidities/
+    │   ├── GBD/
+    │   └── organs/
+    └── google/
+        ├── ASMs/
+        ├── comorbidities/
+        └── GBD/
+```
+
 
 ## 🚀 Setup Guide
 
@@ -54,19 +79,18 @@ conda env create -f envs1.yaml
 Open and execute the analysis notebook step by step:
 - `code/analysis/run.ipynb`
 
----
+
 
 ## 📄 License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
----
+
 
 ## 📦 Version
 
 **Current Version:** 1.0.0
 
----
 
 ## 📧 Contact
 
@@ -78,7 +102,7 @@ For questions, suggestions, or collaborations, please contact us:
 
 Or open an issue in this repository.
 
----
+
 
 ## 📚 Citation
 

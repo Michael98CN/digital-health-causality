@@ -55,23 +55,23 @@ Chronic diseases account for over 80% of the global disease burden, yet traditio
 
 ## 🚀 Setup Guide
 
-### 🖥️ Development System
+###  Development System
 
 - Windows 11
 
-### 1️⃣ Install Stata
+### 1. Install Stata
 
 Install **Stata 17** or **Stata 18** from the official website:  
 👉 [https://www.stata.com/](https://www.stata.com/)
 
-### 2️⃣ Configure the Environment
+### 2. Configure the Environment
 
 Create a Conda environment using the provided `envs1.yaml`:
 ```bash
 conda env create -f envs1.yaml
 ```
 
-### 3️⃣ Run the Analysis
+### 3. Run the Analysis
 
 Open and execute the analysis notebook step by step:
 - `code/analysis/run.ipynb`

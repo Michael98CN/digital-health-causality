@@ -29,9 +29,6 @@ Chronic diseases account for over 80% of the global disease burden, yet traditio
 - **Case Study:** In epilepsy, spikes in related searches precede interest in anxiety, migraine, brain, and heart health.
 - **Scalable Framework:** Can be generalized to other chronic diseases and digital data sources.
 
-当然可以！下面是对你的目录结构的精简整理和美化，适合直接放到README.md中，包含适当的注释和层级缩进：
-
----
 
 ## 📁 Project Directory Structure
 

@@ -21,13 +21,9 @@ Chronic diseases account for over 80% of the global disease burden, yet traditio
 *<sub>Figure: Schematic of the integrated e-epidemiology methodology.</sub>*
 
 ### 🌟 Key Highlights
-
-- **Real-Time Surveillance:** Leverages daily health-related search data as proxies for disease activity and public concern.
-- **Causal Analysis:** Employs vector autoregression (VAR), Granger causality, and impulse response modeling to uncover temporal and causal links.
-- **Validation:** Digital signals show strong alignment with traditional epidemiological statistics.
-- **Geographical Insights:** Identifies regional variations in medication search patterns.
-- **Case Study:** In epilepsy, spikes in related searches precede interest in anxiety, migraine, brain, and heart health.
-- **Scalable Framework:** Can be generalized to other chronic diseases and digital data sources.
+- **Novel e-epidemiology framework**: Developed a real-time, data-driven approach to monitor public interest and information-seeking behaviors for epilepsy and related health factors using digital search data.
+- **Integration with traditional epidemiology**: Demonstrated strong alignment between online search trends and conventional epidemiological metrics, supporting the validity of digital proxies.
+- **Temporal and regional insights**: Uncovered dynamic temporal associations and distinct geographic patterns in public demand for epilepsy-related information and medication.
 
 
 ## 📁 Project Directory Structure
